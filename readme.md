@@ -2,7 +2,7 @@
 
 # Tic Tac Toe game
 
-This is tic tac toe game i made with JavaScript.
+The popular Tic-tac-toe game, implemented with vanilla JavaScript
 
 </div>
 
@@ -21,7 +21,7 @@ This is tic tac toe game i made with JavaScript.
 
 ### The challenge
 
-This is simple tic tac toe game - to win the user must have three cells horizontally, vertically or diagonally filled with the same symbol.
+To win the game user must have three cells horizontally, vertically or diagonally filled with the same symbol.
 
 Remis is when all 9 cells are not empty and there is no three cells horizontally, vertically or diagonally filled with the same symbol.
 
